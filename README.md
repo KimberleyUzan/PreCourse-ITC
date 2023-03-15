@@ -9,6 +9,7 @@ There should be two animations in total, one on hover, and one on click.
 CONTACT.HTML AND ABOUT.HTML
 6. In these two files, add the same navbar from your home page to each of the new pages you created. Add some basic HTML to each page so that the about page has a title that says "About" and the contact page has a title of "Contact".
 7. Inyournavbar,connectthenavbarlinkstotheirrespectiveHTMLpages.Whenyouclickonthe links, your browser should display the corresponding HTML page.
+
 ABOUT.HTML
 8. On the "About" page, create a section that includes the following information: describe why you are interested in coding, your educational and career experiences, and your personal interests. Please style and layout the page as you choose.
 9. Add another section below what you created in the previous step. In this section, write where you were born and the cities in which you have visited. There should be at least 3 cities in total. If you have visited two cities or less, complete the list with other cities you would like to visit.
